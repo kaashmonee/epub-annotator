@@ -118,4 +118,4 @@ docker build -t epub-annotator .
 
 ## License
 
-[Add your license here] 
+uhh idk
